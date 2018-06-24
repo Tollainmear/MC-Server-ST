@@ -1,2 +1,1 @@
-# MC-Server-ST
-This is a assignment for my IS course
+## 网络信息安全课程的作业附件（作业的代码片段）
